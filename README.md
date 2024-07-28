@@ -4,13 +4,13 @@
 株式会社プラハ様のフロントエンド技術面談を受けるために作成いたしました
 
 ## ライブラリ選定
-- プロジェクト生成
+- プロジェクト生成  
   Vite
-- 画面遷移
+- 画面遷移  
   react-router-dom
-- HTTP リクエスト
+- HTTP リクエスト  
   axios
-- データフェッチ
+- データフェッチ  
   tanstack query
-- css
+- css  
   panda css
